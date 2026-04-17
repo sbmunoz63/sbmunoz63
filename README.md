@@ -1,16 +1,19 @@
-## Hi there 👋
+## Holaaaa, soy Sebastián 👋
+Soy estudiante junior de informatica, me interesa 
+saber sobre la tecnologia y aprender bastante en el proceso
+Edad: 20 Años
 
-<!--
-**sbmunoz63/sbmunoz63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mis objetivos 🎯
+- mejorar mis habilidades como desarrollador
+- participar en muchos proyectos
+- seguir creciendo en el area de la tecnologia
 
-Here are some ideas to get you started:
+##Contacto y redes sociales 📱
+- sebaamunoz24@gmail.com
+- Instagram: https://www.instagram.com/sb_munoz63?igsh=MWhqejhteG5nMWhncg==
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formación
+- tecnico en conectividad y redes / Enseñanza media
+- Estudiante de Ingenieria en informatica / 3er Año
+
+Siempre buscando mejorar y abierto a aprender cada dia ⭐
