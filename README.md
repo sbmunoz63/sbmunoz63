@@ -8,7 +8,7 @@ Edad: 20 Años
 - participar en muchos proyectos
 - seguir creciendo en el area de la tecnologia
 
-##Contacto y redes sociales 📱
+## Contacto y redes sociales 📱
 - sebaamunoz24@gmail.com
 - Instagram: https://www.instagram.com/sb_munoz63?igsh=MWhqejhteG5nMWhncg==
 
